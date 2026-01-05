@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Growth AI - Decision + Execution OS",
+  "description": "The ultimate OS for Gen Z to make right decisions and execute consistently. Features a rules-based decision engine, task management, and an AI guide.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
